@@ -63,7 +63,7 @@ nav a:hover {
   margin-top: 4rem;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/asset/kotabatik.jpg");
+    url("kotabatik.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -175,12 +175,12 @@ nav a:hover {
 footer {
   background: linear-gradient(135deg, #114b62, #1a5f7a);
   color: white;
-  padding: 2rem;
+  padding: 1px;
   text-align: center;
 }
 
 footer p {
-  margin: 0.5rem 0;
+  margin: 1px 0;
 }
 
 /* Responsive Design */
